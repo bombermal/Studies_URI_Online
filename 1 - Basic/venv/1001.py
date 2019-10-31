@@ -46,5 +46,13 @@ def func1007():
 
     print("DIFERENCA = %d" %(a*b-c*d))
 
+#1008
+def func1008():
+    a = int(input())
+    b = int(input())
+    c = float(input())
 
-func1007()
+    print("NUMBER = %d" % (a))
+    print("SALARY = U$ %.2f" %(b*c))
+
+func1008()
